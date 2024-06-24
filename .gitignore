@@ -1,0 +1,5 @@
+node_modules/
+.pid
+scripts/*.txt
+scripts/*.csv
+.DS_Store
